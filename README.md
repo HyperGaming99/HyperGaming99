@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/gamerdave08"><img src="https://cdn.discordapp.com/avatars/859094822391513088/7f4522ba4cb7ff6f59f6cc97d26e4778.png" alt="Gray shape shifter" height="120"/></a></p>
+
 <h1 align="center">Leon</h1>
 <p align="center">A passionate frontend/backend developer from Germany.</p>
 <p align="center">
@@ -34,11 +34,5 @@
 - [Mail Me](mailto:leon@north-mail.eu)<br/>
 <!-- - [My Discord](https://discord.com/users/859094822391513088) -->
 <br/><br/><br/>
-<!-- ## 💰 If u want to Support me
-<a href="https://paypal.me/gamerdave08"> <img align="left" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="50" width="210" alt="_David_" /></a><br/> -->
 
 
-<!-- <br/>
-<p align="center"><a href="https://github.com/gamerdave08"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
-<br/> -->
-<p align="center"><a href="https://github.com/gamerdave08"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
