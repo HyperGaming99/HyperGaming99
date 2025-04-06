@@ -1,6 +1,6 @@
 
-<h1 align="center">Leon</h1>
-<p align="center">A passionate frontend/backend developer from Germany.</p>
+<h1 align="center">The Null</h1>
+<p align="center">Full Stack Developer from Germany passionate about creating impactful solutions.</p>
 <p align="center">
 
 ## :star: My Projekts
@@ -26,7 +26,7 @@
 
 ## :clap:  Contact Me
 - [Discord Support](https://discord.com/users/925802573506674729)<br/>
-- [Mail Me](mailto:aro_l@northsoft.eu)<br/>
+- [Mail Me](mailto:thenull@keynox.eu)<br/>
 <!-- - [My Discord](https://discord.com/users/859094822391513088) -->
 <br/><br/><br/>
 
