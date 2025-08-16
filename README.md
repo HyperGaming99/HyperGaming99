@@ -1,33 +1,46 @@
+<h1 align="center">🚀 The Null</h1>
+<p align="center"><b>Full Stack Developer from Germany</b> – building digital solutions that connect, empower & inspire.</p>
 
-<h1 align="center">The Null</h1>
-<p align="center">Full Stack Developer from Germany passionate about creating impactful solutions.</p>
+---
+
+## 🌌 About Me
+Hey! I’m **The Null** – a passionate **Full Stack Developer** who loves turning complex ideas into practical and impactful applications.  
+I thrive at the intersection of **backend reliability**, **frontend design**, and **community-driven projects**.  
+
+- 🛠️ Building scalable apps, APIs & modern web solutions  
+- 🎮 Creating immersive experiences for games & online communities  
+- 🌍 Exploring innovative ways to shape the digital world  
+
+---
+
+## ✨ Featured Projects
+- 🔗 [Keynox.eu](https://keynox.eu) – Hosting solutions for modern projects  
+- 🔗 [Northsoft.eu](https://northsoft.eu) – Tech-driven services for digital growth  
+- 🔗 [Otopia-rp.de](https://otopia-rp.de) – Roleplay server with custom features  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HyperGaming99&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-## :star: My Projekts
-- Keynox.eu
-- Northsoft.eu
-- Otopia-rp.de
+---
 
+## ⚡ Streaks & Achievements
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HyperGaming99&theme=tokyonight" alt="Streak Stats" />
+</p>
 
-<br/><br/><br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HyperGaming99&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
-## :hear_no_evil:  How i am?  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HyperGaming99&show_icons=true&locale=en" alt="HyperGaming99" /></p>
-<br/><br/><br/>
+---
 
-## :zap:  My Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HyperGaming99" alt="HyperGaming99" /></p>
+## 🤝 Let’s Connect
+- 💬 [Discord](https://discord.com/users/925802573506674729)  
+- 📧 [Email Me](mailto:thenull@keynox.eu)  
 
-  
-<br/><br/><br/>
-## :tada:  GitHub Trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HyperGaming99" alt="gamerdave08" /></a> </p>
-<br/><br/><br/>
-
-## :clap:  Contact Me
-- [Discord Support](https://discord.com/users/925802573506674729)<br/>
-- [Mail Me](mailto:thenull@keynox.eu)<br/>
-<!-- - [My Discord](https://discord.com/users/859094822391513088) -->
-<br/><br/><br/>
-
-
+---
+<p align="center">✨ "Code is more than syntax – it’s the art of shaping ideas into reality." ✨</p>
