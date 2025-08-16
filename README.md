@@ -39,8 +39,7 @@ I thrive at the intersection of **backend reliability**, **frontend design**, an
 ---
 
 ## 🤝 Let’s Connect
-- 💬 [Discord](https://discord.com/users/925802573506674729)  
-- 📧 [Email Me](mailto:thenull@keynox.eu)  
-
+- 💬 [Discord](https://discord.com/users/925802573506674729)
+  
 ---
 <p align="center">✨ "Code is more than syntax – it’s the art of shaping ideas into reality." ✨</p>
