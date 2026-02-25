@@ -1,33 +1,35 @@
-<h1 align="center">🚀 The Null</h1>
-<p align="center"><b>Full Stack Developer from Germany</b> – building digital solutions that connect, empower & inspire.</p>
+<h1 align="center">🚀 arolg.dev</h1>
+<p align="center"><b>Full Stack Development & Digital Solutions</b> – crafting scalable experiences for the modern web.</p>
 
 ---
 
-## 🌌 About Me
-Hey! I’m **The Null** – a passionate **Full Stack Developer** who loves turning complex ideas into practical and impactful applications.  
-I thrive at the intersection of **backend reliability**, **frontend design**, and **community-driven projects**.  
+## 🌌 About
 
-- 🛠️ Building scalable apps, APIs & modern web solutions  
-- 🎮 Creating immersive experiences for games & online communities  
-- 🌍 Exploring innovative ways to shape the digital world  
+Hey! I’m **The Null**, the developer behind **arolg.dev** — focused on building reliable, scalable, and impactful digital products.
+My work blends **robust backend architecture**, **clean frontend experiences**, and **practical solutions** for real-world needs.
+
+* 🛠️ Developing modern web apps, APIs & cloud solutions
+* ⚡ Turning complex ideas into performant products
+* 🌍 Building tools that empower communities & businesses
 
 ---
 
-## ✨ Featured Projects
-- 🔗 [Keynox.eu](https://keynox.eu) – Hosting solutions for modern projects  
-- 🔗 [Northsoft.eu](https://northsoft.eu) – Tech-driven services for digital growth  
-- 🔗 [Otopia-rp.de](https://otopia-rp.de) – Roleplay server with custom features  
+## ✨ Projects & Work
+
+* 🔗 https://arolg.dev — Portfolio & development hub
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HyperGaming99&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
-## ⚡ Streaks & Achievements
+## ⚡ Activity & Achievements
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HyperGaming99&theme=tokyonight" alt="Streak Stats" />
 </p>
@@ -38,8 +40,11 @@ I thrive at the intersection of **backend reliability**, **frontend design**, an
 
 ---
 
-## 🤝 Let’s Connect
-- 💬 [Discord](https://discord.com/users/925802573506674729)
-  
+## 🤝 Connect
+
+* 💬 Discord: https://discord.com/users/925802573506674729
+* 🌐 Website: https://arolg.dev
+
 ---
-<p align="center">✨ "Code is more than syntax – it’s the art of shaping ideas into reality." ✨</p>
+
+<p align="center">✨ Building digital experiences that are fast, reliable, and meaningful. ✨</p>
