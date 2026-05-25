@@ -42,11 +42,11 @@ I'm a passionate **Backend Developer** who enjoys building scalable, reliable, a
 - Optimize backend performance
 - Work on scalable server-side applications
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyperGaming99&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyperGaming99&layout=compact&theme=tokyonight)
+![Profile views](https://komarev.com/ghpvc/?username=HyperGaming99&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/HyperGaming99?style=social)
+![GitHub stars](https://img.shields.io/github/stars/HyperGaming99?style=social)
 
 ## 📫 Contact Me
 
