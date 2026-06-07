@@ -1,57 +1,98 @@
-# Hi there 👋
+ <!-- Header Section -->                                                                                                                                  
+  <h1 align="center"><font face="Arial">Hi 👋, I am TheNull, a Backend Developer</font></h1>                                                          
+  <h3 align="center"><font face="Arial">Welcome to my GitHub profile!</font></h3>                                                                          
+   
+  <!-- Languages and Tools Section -->                                                                                                                     
+  <h2 align="left"><font size="+2" face="Verdana">🌟 Tech Stack & Tools</font></h2>
+  <p align="left">
+    I specialize inBackend Development. Here's my technology arsenal:
+  </p>
 
-I'm a passionate **Backend Developer** who enjoys building scalable, reliable, and clean server-side applications.
+  <!-- Cloud Platforms -->
+  <h3 align="left"><font size="+1" face="Verdana">☁️  Cloud Platforms</font></h3>
+  <p align="left">
+    <a href="https://www.cloudflare.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=cloudflare" height="42" alt="Cloudflare" />
+    </a>
+  </p>
 
-## 🚀 About Me
+  <!-- Container & Orchestration -->
+  <h3 align="left"><font size="+1" face="Verdana">📦 Container & Orchestration</font></h3>
+  <p align="left">
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" />
+    </a>
+  </p>
+  
+  <!-- Networking & API Gateway -->
+  <h3 align="left"><font size="+1" face="Verdana">🌐 Networking & API Management</font></h3>
+  <p align="left">
+    <a href="https://www.nginx.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nginx" height="42" alt="NGINX" />
+    </a>
+  </p>                                                                                                                                                   
+  
+  <!-- Message Brokers & Streaming -->
+  <h3 align="left"><font size="+1" face="Verdana">💬 Message Brokers & Streaming</font></h3>
+  <p align="left">
+    <a href="https://www.rabbitmq.com/" target="_blank">
+      <img src="https://cdn.simpleicons.org/rabbitmq" height="42" alt="RabbitMQ" />
+    </a>
+  </p>
 
-- 🔭 I’m currently working on backend projects and APIs
-- 🌱 I’m always learning new technologies and improving my skills
-- 💻 I enjoy working with databases, APIs, authentication, and server architecture
-- 🧠 I like solving complex problems and writing clean, maintainable code
-- ⚙️ Focused on performance, security, and scalability
+  <!-- Databases -->
+  <h3 align="left"><font size="+1" face="Verdana">🗄️  Databases</font></h3>
+  <p align="left">
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=postgresql" height="42" alt="PostgreSQL" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" />
+    </a>
+    <a href="https://redis.io/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" />
+    </a>
+  </p>
 
-## 🛠️ Tech Stack
+  <!-- Programming Languages -->
+  <h3 align="left"><font size="+1" face="Verdana">💻 Programming Languages</font></h3>
+  <p align="left">
+    <a href="https://golang.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=go" height="42" alt="Go" />
+    </a>
+  </p>
 
-### Backend
-- Node.js
-- Express.js
-- Python
-- Java
-- REST APIs
-- Authentication & Authorization
+  <!-- Development Tools -->
+  <h3 align="left"><font size="+1" face="Verdana">🛠️  Development Tools</font></h3>
+  <p align="left">
+    <a href="https://www.postman.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" />
+    </a>
+  </p>
 
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
+  <!-- Operating Systems & Virtualization -->
+  <h3 align="left"><font size="+1" face="Verdana">🖥️  Operating Systems & Virtualization</font></h3>
+  <p align="left">
+    <a href="https://www.linux.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" />
+    </a>
+    <a href="https://www.proxmox.com/" target="_blank">
+      <img src="https://0x79.one/DUZRyI" height="42" alt="Proxmox" />
+    </a>
+    <a href="https://www.raspberrypi.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" height="42" alt="Raspberry Pi" />
+    </a>
+  </p>
 
-### Tools & DevOps
-- Git & GitHub
-- Docker
-- Linux
-- CI/CD
-- Postman
-- Nginx
+  <!-- Spoken Languages -->
+  <h3 align="left"><font size="+1" face="Verdana">🗣️  Spoken Languages</font></h3>
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg" height="30" alt="German">
+  </p>
 
-## 📌 What I Do
 
-- Build RESTful APIs
-- Design database structures
-- Create secure authentication systems
-- Optimize backend performance
-- Work on scalable server-side applications
-
-## 📊 GitHub
-
-![Profile views](https://komarev.com/ghpvc/?username=HyperGaming99&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/HyperGaming99?style=social)
-![GitHub stars](https://img.shields.io/github/stars/HyperGaming99?style=social)
-
-## 📫 Contact Me
-
-- GitHub: [@HyperGaming99](https://github.com/HyperGaming99)
-
----
-
-> Clean code, scalable systems, and continuous learning.
+  <!-- Contact Section -->
+  <h2 align="left"><font size="+2" face="Verdana">📫 Contact Me</font></h2>
+  <ul>
+    <li><font face="Arial">💬 Ask me about <strong>Backend Development</strong></font></li>
+  </ul>
