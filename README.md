@@ -14,8 +14,10 @@
     <a href="https://www.cloudflare.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=cloudflare" height="42" alt="Cloudflare" />
     </a>
+    <a href="https://vercel.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vercel" height="42" alt="Vercel" />
+    </a>
   </p>
-
   <!-- Container & Orchestration -->
   <h3 align="left"><font size="+1" face="Verdana">📦 Container & Orchestration</font></h3>
   <p align="left">
@@ -59,6 +61,15 @@
   <p align="left">
     <a href="https://golang.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=go" height="42" alt="Go" />
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://skillicons.dev/icons?i=js" height="42" alt="JS" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TS" />
+    </a>
+    <a href="https://www.java.com/de/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=java" height="42" alt="Java" />
     </a>
   </p>
 
