@@ -5,7 +5,7 @@
   <!-- Languages and Tools Section -->                                                                                                                     
   <h2 align="left"><font size="+2" face="Verdana">🌟 Tech Stack & Tools</font></h2>
   <p align="left">
-    I specialize inBackend Development. Here's my technology arsenal:
+    I specialize in Backend Development. Here's my technology arsenal:
   </p>
 
   <!-- Cloud Platforms -->
