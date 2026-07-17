@@ -2,8 +2,8 @@
   <h1 align="center"><font face="Arial">Hi 👋, I am TheNull, a Backend Developer</font></h1>                                                          
   <h3 align="center"><font face="Arial">Welcome to my GitHub profile!</font></h3>                                                                          
 
-  [![Discord Presence](https://0x79.one/discord-card.svg?user_id=925802573506674729&background=101011&radius=0&idle_message=I%27m%20not%20currently%20doing%20anything%21&theme=default)](https://0x79.one/discord?user_id=925802573506674729)
-   
+[![Discord Presence](https://0x79.one/discord-card.svg?user_id=925802573506674729&background=101011&radius=0&idle_message=I%27m%20not%20currently%20doing%20anything%21&theme=default&hide_spotify=1)](https://0x79.one/discord?user_id=925802573506674729)
+
   <!-- Languages and Tools Section -->                                                                                                                     
   <h2 align="left"><font size="+2" face="Verdana">🌟 Tech Stack & Tools</font></h2>
   <p align="left">
