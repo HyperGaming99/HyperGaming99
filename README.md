@@ -116,6 +116,7 @@
   <h3 align="left"><font size="+1" face="Verdana">🗣️  Spoken Languages</font></h3>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg" height="30" alt="German">
+    <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg" height="30" alt="English">
   </p>
 
 
