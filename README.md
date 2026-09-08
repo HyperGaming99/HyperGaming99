@@ -24,6 +24,9 @@
     <a href="https://www.docker.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" />
     </a>
+    <a href="https://kubernetes.io/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=kubernetes" height="42" alt="Kubernetes" />
+    </a>
   </p>
 
   <!-- Monitoring & Observability -->
