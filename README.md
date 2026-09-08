@@ -90,6 +90,9 @@
     <a href="https://www.postman.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" />
     </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />
+    </a>
   </p>
 
   <!-- Operating Systems & Virtualization -->
