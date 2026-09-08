@@ -25,6 +25,17 @@
       <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" />
     </a>
   </p>
+
+  <!-- Monitoring & Observability -->
+  <h3 align="left"><font size="+1" face="Verdana">📊 Monitoring & Observability</font></h3>
+  <p align="left">
+    <a href="https://prometheus.io/" target="_blank">
+      <img src="https://cdn.simpleicons.org/prometheus" height="42" alt="Prometheus" />
+    </a>
+    <a href="https://grafana.com/" target="_blank">
+      <img src="https://cdn.simpleicons.org/grafana" height="42" alt="Grafana" />
+    </a>
+  </p>
   
   <!-- Networking & API Gateway -->
   <h3 align="left"><font size="+1" face="Verdana">🌐 Networking & API Management</font></h3>
